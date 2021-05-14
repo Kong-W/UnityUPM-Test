@@ -1,7 +1,7 @@
 ::设置模块名字,发布的时候 改路径，名字 版本
 SET ToolName=upm-yourmodule
 ::设置模块版本
-SET ToolVersion=yourmodule-1.0.0
+SET ToolVersion=yourmodule-1.0.2
 ::设置模块源路径
 SET ToolAssetPath=Assets/
 
